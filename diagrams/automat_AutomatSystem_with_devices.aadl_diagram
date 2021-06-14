@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="3dbeae87-7c9b-4508-92d5-dd996f7a39ff" manual="true">
+    <element uuid="c83179a2-6070-47ee-8682-ba0e62d194ed" manual="true">
+      <element uuid="b64e8e08-2077-4670-98b9-6fa61b95a9bb" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_chlodziarka</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="370.0"/>
+        <point x="141.0" y="370.0"/>
+        <point x="141.0" y="92.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="da1e28a5-a873-4a9b-9c33-5f11dbbd9cab" manual="true">
+      <element uuid="45266da2-c2a9-4255-acff-622ecb24cd45" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_licznik_monet</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="380.0"/>
+        <point x="151.0" y="380.0"/>
+        <point x="151.0" y="222.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="568ddbb3-e3bc-403b-b524-a5eea66233bb" manual="true">
+      <element uuid="3d8f89ad-334e-4182-b9d4-384e16f4e78b" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_oswietlenie</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="410.0"/>
+        <point x="161.0" y="410.0"/>
+        <point x="161.0" y="480.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="3b995b6a-973f-4d03-a279-476d6eaa753c" manual="true">
+      <element uuid="68153b6f-7bc4-4f26-95a1-17ce3cc76e67" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_panel_zewnetrzny</seg>
+      </bo>
+      <bendpoints>
+        <point x="131.0" y="400.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="df72e93b-82b5-4b12-b1bf-05407630c51b" manual="true">
+      <element uuid="1b84b148-8a9e-44c9-873a-77ad1972a5dd" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_processor</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="390.0"/>
+        <point x="161.0" y="390.0"/>
+        <point x="161.0" y="320.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="337f8b39-b5df-4936-adde-1e08b6bd9bf6" manual="true">
+      <element uuid="c035731e-031a-4454-ba38-548712e236eb" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_silownik_spirali</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="420.0"/>
+        <point x="151.0" y="420.0"/>
+        <point x="151.0" y="558.0"/>
+        <point x="942.0" y="558.0"/>
+        <point x="942.0" y="500.0"/>
+        <point x="962.0" y="500.0"/>
+        <point x="962.0" y="475.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f4d59784-f5b2-4505-89fa-1d96f3e573c7" manual="true">
+      <element uuid="c0c3a219-f73e-4b2c-a3a8-ebbb57acee58" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>bus_wyswietlacz</seg>
+      </bo>
+      <bendpoints>
+        <point x="135.0" y="430.0"/>
+        <point x="141.0" y="430.0"/>
+        <point x="141.0" y="605.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="59597b35-b9ec-4bef-af9f-c5d3ea40b1bf" manual="true">
+      <element uuid="d10a86f2-8ddd-4e16-bf68-49b7196ab33e" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>chlodziarka_conn</seg>
+      </bo>
+      <bendpoints>
+        <point x="942.0" y="275.0"/>
+        <point x="942.0" y="142.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9994d1e2-a4e1-4247-9d35-1c41c2384eed" manual="true">
+      <element uuid="61e17726-b1da-40a4-84c1-99fa47eead1e" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>licznik_monet_wartosc_conn</seg>
+      </bo>
+      <bendpoints>
+        <point x="962.0" y="322.0"/>
+        <point x="962.0" y="375.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="38f55a23-6cc2-4d96-a9e7-ecf1fc392c3c" manual="true">
+      <element uuid="35532741-046b-43f2-b9c6-250aa7c8011c" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>panel_conn_in</seg>
+      </bo>
+    </element>
+    <element uuid="67fa52c9-d761-4381-a7d1-b6e16facf4d6" manual="true">
+      <element uuid="1d3e2833-e2c2-4691-88ad-51708c79cd02" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>panel_conn_out</seg>
+      </bo>
+      <bendpoints>
+        <point x="952.0" y="525.0"/>
+        <point x="952.0" y="555.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="84108293-f4a0-424e-b4e5-1d298949847d" manual="true">
+      <element uuid="43e7d81f-8731-47f3-86db-8163b97c0f20" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>reszta_conn</seg>
+      </bo>
+      <bendpoints>
+        <point x="952.0" y="325.0"/>
+        <point x="952.0" y="272.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="408e1454-d157-4a28-8425-f0b64e057dbf" manual="true">
+      <element uuid="3e2b9b4a-f2a0-449a-bff5-1ac7837d7870" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>silownik_conn</seg>
+      </bo>
+    </element>
+    <element uuid="0c300b2c-bdf5-4813-b27b-1c30f1424773" manual="true">
+      <element uuid="adb29e86-211c-4b9b-85d0-af731f453f93" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>wyswitlacz_conn</seg>
+      </bo>
+      <bendpoints>
+        <point x="952.0" y="475.0"/>
+        <point x="952.0" y="555.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9419eabe-6616-4b50-863d-09c0f5402311" manual="true">
+      <bo>
+        <seg>realization</seg>
+      </bo>
+    </element>
+    <element uuid="c3ec63c9-8c27-46c8-a94c-ad62e5b425e0" manual="true">
+      <element uuid="0a91e48c-2472-4bd8-9291-385c3aa2ae02" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_bus</seg>
+      </bo>
+      <position x="12.0" y="348.0"/>
+      <size width="148.0" height="80.0"/>
+    </element>
+    <element uuid="1c46e284-35a0-4dad-af91-918e4e6c5da5" manual="true">
+      <element uuid="236deb56-22da-4af5-a0d0-da5750d2c96a" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="c32b6c50-2cc9-49a9-ab22-c157c3019c4d" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>chlodz</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="66f3d2de-32fd-49c3-b87a-acaa11f94527" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_chlodziarka</seg>
+      </bo>
+      <position x="1108.0" y="38.0"/>
+      <size width="332.0" height="110.0"/>
+    </element>
+    <element uuid="8d3f8f1d-3e75-411b-a866-642537d9dacb" manual="true">
+      <element uuid="f0f714e9-9dff-4ca5-acc1-7badff53d788" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>chlodzenie_on</seg>
+        </bo>
+        <position x="263.0" y="10.0"/>
+      </element>
+      <element uuid="cf46e3b1-4524-404c-a9e5-2524b1c40384" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>numerek_in</seg>
+        </bo>
+        <position y="135.0"/>
+      </element>
+      <element uuid="0c4996af-802d-48f8-aa87-91d07349b0b8" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>numerek_out</seg>
+        </bo>
+        <position x="275.0" y="260.0"/>
+      </element>
+      <element uuid="10c2424b-ca63-480f-87d3-d79d46cefcb8" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>reszta_in</seg>
+        </bo>
+        <position x="302.0" y="60.0"/>
+      </element>
+      <element uuid="df299b75-9d4c-4f73-811a-a20f016475a9" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>ruch_spirala</seg>
+        </bo>
+        <position x="278.0" y="160.0"/>
+      </element>
+      <element uuid="29f8f5cd-dc65-4e01-a1af-cedcb15da445" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>wartosc_monet</seg>
+        </bo>
+        <position x="260.0" y="110.0"/>
+      </element>
+      <element uuid="0297ff08-39a7-4871-a86c-da0409e01b77" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>wyswietl_on</seg>
+        </bo>
+        <position x="280.0" y="210.0"/>
+      </element>
+      <element uuid="58c347f8-422c-4e92-bab0-0eae7c917636" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_controller</seg>
+      </bo>
+      <position x="598.0" y="227.0"/>
+      <size width="370.0" height="310.0"/>
+    </element>
+    <element uuid="35959034-a32e-4dc4-b584-59e59a402959" manual="true">
+      <element uuid="829d190f-76c9-49c9-93c1-6c67a8c45ddc" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="be42211e-a191-4d8d-b1b1-8095266edc48" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>reszta_out</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="5dd85fdb-c959-495f-875d-256ebe122948" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>wartosc_monet</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="f6bd8960-077e-4c1d-989c-50f3e2c20ef6" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_licznik_monet</seg>
+      </bo>
+      <position x="1108.0" y="158.0"/>
+      <size width="397.0" height="160.0"/>
+    </element>
+    <element uuid="cc26d36f-ea6c-4a16-bd5b-7d7ee601a81b" manual="true">
+      <element uuid="e1b9b2e7-5472-4961-8794-402e01693f7b" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="860abc0f-f96d-44dc-bccd-7542866635df" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>light_on</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="c5399339-bb04-4863-97e3-6099d8d331f1" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_oswietlenie</seg>
+      </bo>
+      <position x="180.0" y="427.0"/>
+      <size width="330.0" height="110.0"/>
+    </element>
+    <element uuid="feb64947-65da-4d78-aa85-384a43a29049" manual="true">
+      <element uuid="fb0aa96c-74a4-455c-bcf0-73fed8457674" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="f08a5e9d-1c8b-45b8-8a0e-d4ba64977a40" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>numerek</seg>
+        </bo>
+        <position x="307.0" y="10.0"/>
+      </element>
+      <element uuid="54151d88-958c-4405-b561-e8ecafb261bc" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_panel_zewnetrzny</seg>
+      </bo>
+      <position x="159.0" y="346.0"/>
+      <size width="371.0" height="60.0"/>
+    </element>
+    <element uuid="2ae3a56e-4232-42b9-bceb-f44e5d0b6fbc" manual="true">
+      <element uuid="7d55f1c9-3c2a-4165-b67f-b5995c9612e5" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="2fc990dc-1a77-41a5-98c0-c9ad30dea727" manual="true">
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>this_RAM</seg>
+        </bo>
+        <position/>
+        <size width="115.0" height="35.0"/>
+      </element>
+      <element uuid="5b0fe7bb-b361-4434-abfc-22f46309de00" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_processor</seg>
+      </bo>
+      <position x="218.0" y="268.0"/>
+      <size width="322.0" height="60.0"/>
+    </element>
+    <element uuid="6627fc01-4973-45b3-a282-bb1a291e593b" manual="true">
+      <element uuid="0ceb8315-9ae7-47cb-a9c2-28cd60deadce" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="54058085-4da9-4f63-99a1-8a42b301983a" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>ruch</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="39ff6860-311c-4a83-9e06-4bdf7f06764a" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_silownik_spirali</seg>
+      </bo>
+      <position x="1108.0" y="368.0"/>
+      <size width="358.0" height="110.0"/>
+    </element>
+    <element uuid="b5ca5106-fd92-46c9-bcca-29bdacabb190" manual="true">
+      <element uuid="7afabb9e-05ac-4871-a900-bee5fdef8b60" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>bus_access</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="0fef6c77-bef4-4c83-b444-72661e1e1d5f" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>wyswietl</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="4e689451-7a58-45c1-bae2-88542f25b901" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>sc_type</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>this_wyswietlacz</seg>
+      </bo>
+      <position x="1107.0" y="498.0"/>
+      <size width="334.0" height="110.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>AutomatSystem.with_devices</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="1529.0" height="888.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>automat::AutomatSystem.with_devices</seg>
+    </context>
+  </config>
+</diagram:Diagram>
